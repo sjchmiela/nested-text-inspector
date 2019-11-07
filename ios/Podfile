@@ -13,6 +13,7 @@ target 'NestedTextInspector' do
     'RCTWebSocket',
     'RCTAnimation',
     'RCTImage',
+    'RCTPushNotification',
   ]
 
   pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
